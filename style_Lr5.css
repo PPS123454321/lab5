@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    color: white;
+}
+
+.main{
+    background: url(fon_main.png);
+    height: 707px;
+    padding-top: 3%;
+}
+
+.heading{
+    font-size: 96px;
+    font-style: italic;
+    background-color: black;
+    width: 450px;
+    padding: 50px;
+    margin-left: 47%;
+}
+
+.the1stblock{
+    background-color: black;
+}
+
+.the1stflex{
+    display: inline-flex;
+}
+
+.img1{
+    width: 700px;
+    padding: 45px;
+}
+
+.text1{
+    font-style: normal;
+    font-size: 26px;
+    padding: 95px 0;
+}
+
+.the2ndblock{
+    background-color: black;
+}
+
+.text2-1, .text2-2, .text2-3{
+    font-size: 34px;
+    font-style: normal;
+    width: 1425px;
+    padding: 40px 32px;
+}
+
+.the3rdblock{
+    background-color: black;
+}
+
+.img2{
+    width: 1300px;
+    height: 690px;
+    padding: 30px 100px;
+}
+
+.the4thblock{
+    background-color: black;
+}
+
+.text3{
+    font-style: normal;
+    font-size: 40px;
+    padding: 130px 32px;
+}
+
+.the5thblock{
+    background-color: black;
+}
+
+.img3{
+    width: 1300px;
+    height: 690px;
+    padding-top: 30px;
+    padding-bottom: 70px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.the6thblock{
+    background-color: black;
+}
+
+table{
+    font-size: 24px;
+    font-style: normal;
+    margin: 0 35%;
+}
